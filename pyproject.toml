@@ -5,6 +5,9 @@ description = "Assessment for CSET"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "bs4>=0.0.2",
     "ipykernel>=7.3.0",
     "pandas>=3.0.3",
+    "regex>=2026.6.28",
+    "requests>=2.34.2",
 ]
